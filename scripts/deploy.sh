@@ -20,5 +20,5 @@ git commit --am -m "build: deploy documentation"
 git push -f https://github.com/townechow/javascript-guidebook.git master:gh-pages
 
 ## clean
-cd
+cd ../..
 rm -rf $TEMP_PATH
