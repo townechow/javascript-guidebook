@@ -2,8 +2,8 @@ const config = {
   mode: 'site',
   title: 'JavaScript Guidebook',
   description: 'JavaScript 完全知识体系',
-  base: '/javascript-guidebook/',
-  publicPath: '/javascript-guidebook/',
+  base: '/web/structure/',
+  publicPath: '/web/structure/',
   favicon: './favicon.ico',
   logo: 'http://img.mrsingsing.com/javascript-guidebook-favicon.png',
   hash: true,
@@ -12,7 +12,7 @@ const config = {
     null,
     {
       title: 'Github',
-      path: 'https://github.com/tsejx/javascript-guidebook',
+      path: 'https://github.com/townechow/javascript-guidebook',
     },
   ],
   extraBabelPlugins: [

@@ -1,6 +1,6 @@
 {
   "name": "javascript-guidebook",
-  "author": "tsejx",
+  "author": "townechow",
   "version": "1.0.0",
   "description": "A guidebook for the convenience of the front-end developers",
   "scripts": {
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/tsejx/javascript-guidebook#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsejx/javascript-guidebook.git"
+    "url": "git+https://github.com/townechow/javascript-guidebook.git"
   },
   "license": "MIT"
 }

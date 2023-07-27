@@ -17,7 +17,7 @@
   </p>
 
   <h1>JavaScript Guidebook</h1>
-  <p>在 <a href="https://townechow.github.io/javascript-guidebook/">这里</a> 阅读体验更佳</p>
+  <p>在 <a href="http://adog.life/web/structure/">这里</a> 阅读体验更佳</p>
   <p>整理自各大技术社区和权威书籍的前端技术图谱</p>
   <p></p>
   <p>
