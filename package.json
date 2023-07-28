@@ -19,7 +19,7 @@
     "prismjs": "^1.21.0",
     "typescript": "^4.2.4"
   },
-  "homepage": "https://github.com/tsejx/javascript-guidebook#readme",
+  "homepage": "https://github.com/townechow/javascript-guidebook#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/townechow/javascript-guidebook.git"

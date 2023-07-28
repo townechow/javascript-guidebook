@@ -1,7 +1,7 @@
 const config = {
   mode: 'site',
-  title: 'JavaScript Guidebook',
-  description: 'JavaScript 完全知识体系',
+  title: 'web knowledge structure ',
+  description: 'web 完全知识体系',
   base: '/web/structure/',
   publicPath: '/web/structure/',
   favicon: './favicon.ico',
